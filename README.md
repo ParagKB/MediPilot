@@ -241,7 +241,7 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 
-**Sudhanva C**
+**Parag KB**
 
 Bachelor of Engineering (Artificial Intelligence & Machine Learning)
 
